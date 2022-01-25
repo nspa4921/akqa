@@ -7,7 +7,7 @@ function Header(props) {
   return (
     <div className="header">
       <div className="logo">
-        <a href="#"><img src={logo} alt="logo"/></a>
+        <a href="/#"><img src={logo} alt="logo"/></a>
       </div>
         <div>
             <form>
