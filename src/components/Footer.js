@@ -11,7 +11,6 @@ const Footer = () => <footer className="page-footer font-small blue pt-4">
             <hr className="clearfix w-100 d-md-none pb-0"/>
 
             <div className="col-md-4 mb-md-0 mb-3">
-                <h5 className="text-uppercase"></h5>
                 <ul className="list-unstyled">
                 </ul>
             </div>

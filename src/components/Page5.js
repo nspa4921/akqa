@@ -19,10 +19,10 @@ const Page5 = () => {
                                             <img
                                                 className=""
                                                 src="http://via.placeholder.com/300x180"
-                                                alt="Card image cap"
+                                                alt="Card cap"
                                                 />
                                                 <div className="overlay">
-                                                    <a href="#" className="icon" title="video">
+                                                    <a href="/#" className="icon" title="video">
                                                     <img src={videothumb} alt="videothumb" />
                                                     </a>
                                                 </div>
@@ -50,7 +50,7 @@ const Page5 = () => {
                                             <img
                                                 className=""
                                                 src="http://via.placeholder.com/300x180"
-                                                alt="Card image cap"
+                                                alt="Card cap"
                                                 />
                                             </div>
                                             <div className="card-body">
@@ -76,7 +76,7 @@ const Page5 = () => {
                                             <img
                                                 className=""
                                                 src="http://via.placeholder.com/300x180"
-                                                alt="Card image cap"
+                                                alt="Card cap"
                                                 />
                                             </div>
                                             <div className="card-body">
@@ -102,7 +102,7 @@ const Page5 = () => {
                                             <img
                                                 className=""
                                                 src="http://via.placeholder.com/300x180"
-                                                alt="Card image cap"
+                                                alt="Card cap"
                                                 />
                                             </div>
                                             <div className="card-body">

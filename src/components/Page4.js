@@ -17,7 +17,7 @@ const Page4 = () => {
                     <Card.Text className="card-text">
                         Adtralza® has a straightforward dosing regimen, with 150 mg prefilled syringes(1). 
                     </Card.Text>
-                        <a href="#">Learn more about application and dosing</a>
+                        <a href="/#">Learn more about application and dosing</a>
                     </Card.Body>
                 </Card>
                 </Col>
@@ -29,7 +29,7 @@ const Page4 = () => {
                     <Card.Text className="card-text">
                         This step by step video guide shows the patient how to self inject using the two syringes that come in the Adtralza® carton.  
                     </Card.Text>
-                        <a href="#">Watch the video</a>
+                        <a href="/#">Watch the video</a>
                     </Card.Body>
                 </Card>
                 </Col>
